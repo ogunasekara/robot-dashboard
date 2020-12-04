@@ -24,13 +24,14 @@
 
 .menuItems {
   list-style: none;
-  padding-left: 25px;
+  padding-left: 0px;
   cursor: default;
   user-select: none;
 }
 
 .menuItem {
   padding: 10px;
+  padding-left:35px;
 }
 
 .menuItem:hover {
@@ -38,9 +39,8 @@
 }
 
 .content {
+  
   margin-left: 300px;
-  display: flex;
-  flex-wrap: wrap;
 }
 
 .contentItem {
