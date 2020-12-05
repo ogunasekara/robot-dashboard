@@ -39,8 +39,9 @@
 }
 
 .content {
-  
   margin-left: 300px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .contentItem {
