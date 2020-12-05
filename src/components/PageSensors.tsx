@@ -20,7 +20,7 @@ interface SensorsState {
   fsrs?: DodobotFSRsState,
   gripper?: DodobotGripperState,
   linear?: DodobotLinearState,
-  image?: CompressedImage
+  image?: CompressedImage,
   // other params: DateConstructor
   time: any
 }
